@@ -1,0 +1,8 @@
+# Runtime dependencies (exact pins). New stages append their own packages here.
+annotated-types==0.8.0
+pydantic==2.13.5
+pydantic-core==2.46.5
+pydantic-settings==2.15.0
+python-dotenv==1.2.4
+typing-extensions==4.16.0
+typing-inspection==0.4.4
